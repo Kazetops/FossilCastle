@@ -2,7 +2,7 @@
 var test = function(){
 	var _this = this;
 	_this.init = function(){
-		$("#mainDiv").setText("11234");
+		$("#mainDiv").html("11234");
 	};
 };
 
