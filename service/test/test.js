@@ -9,6 +9,7 @@ var test = function(){
 		extUI.createOriBtn("treeMenuBtn4", "按钮4");
 		extUI.createOriBtn("treeMenuBtn5", "按钮5");
 		extUI.createOriBtn("treeMenuBtn6", "按钮6");
+		$("#mainDiv").load("view/testView.html");
 	};
 };
 

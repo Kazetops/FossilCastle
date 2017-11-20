@@ -1,0 +1,13 @@
+.titleBg {
+	background: -webkit-linear-gradient(#0991FF,#fafafa);  
+    background: -o-linear-gradient(#0991FF,#fafafa);  
+    background: -moz-linear-gradient(#0991FF,#fafafa);  
+    background: linear-gradient(#0991FF,#fafafa);
+/* 	background-repeat:repeat-x; */
+	height: 180px;
+}
+
+.mainDiv {
+	width: 100%;
+	background-color: #fafafa;
+}
